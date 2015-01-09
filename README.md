@@ -7,6 +7,7 @@ best to reduce it to the basics: a pixel font array, a nested loop and a led swi
 for writing some amazing words of light into the air.
 
 I would be happy if you use it as a suggestion for own experiments with computers and electronics.
+What you can also do with lightpainting you can see on my son's google plus profile: https://plus.google.com/113781326896839013461/posts
 
 best regards
 Bernd
